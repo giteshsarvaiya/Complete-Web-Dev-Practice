@@ -1,3 +1,4 @@
+// js program for displaying the name in correct format 
 var yourName = prompt("What is your name?");
 var firstLetter = yourName.slice(0,1);
 var num = yourName.length;
