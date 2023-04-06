@@ -1,3 +1,4 @@
+// this is BMI calculator
 const express = require("express")
 const bodyParser = require("body-parser");
 
